@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "sentinel.dashboard",
+      "type": "java.lang.String",
+      "description": "Description for sentinel.dashboard."
+    },
+    {
+      "name": "sentinel.nacos.server-addr",
+      "type": "java.lang.String",
+      "description": "Description for sentinel.nacos.server-addr."
+    },
+    {
+      "name": "sentinel.nacos.namespace",
+      "type": "java.lang.String",
+      "description": "Description for sentinel.nacos.namespace."
+    }
+  ]
+}
